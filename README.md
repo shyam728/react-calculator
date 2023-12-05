@@ -2,7 +2,7 @@
 
 A simple calculator built using React.js and designed with the Material-UI framework.
 
-![Calculator Screenshot]
+
 <img width="542" alt="cal" src="https://github.com/shyam728/react-calculator/assets/116745835/535aa77b-4f38-4a39-8f50-876fab8fb767">
 
 ## Features
