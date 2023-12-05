@@ -2,6 +2,8 @@
 
 A simple calculator built using React.js and designed with the Material-UI framework.
 
+Live Link : https://react-calculator-nrc6.onrender.com/
+
 
 <img width="542" alt="cal" src="https://github.com/shyam728/react-calculator/assets/116745835/535aa77b-4f38-4a39-8f50-876fab8fb767">
 
@@ -28,5 +30,5 @@ git clone https://github.com/your-username/react-calculator.git
 cd react-calculator
 
 
-Live Link : https://react-calculator-nrc6.onrender.com/
+
 
